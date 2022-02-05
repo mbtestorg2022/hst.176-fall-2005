@@ -19,12 +19,72 @@ Abbas, Abul K., and Andrew Lichtman. _Cellular and Molecular Immunology_. 6th ed
 
 ### Discussion Papers
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| 15 | Paper Discussion 1 | Forster, R., A. Schubel, D. Breitfeld, E. Kremmer, I. Renner-Muller, E. Wolf, and M. Lipp. "CCR7 coordinates the primary immune response by establishing functional microenvironments in secondary lymphoid organs." _Cell_ 99, no. 1 (October 1, 1999): 23-33. |
-| 17 | Paper Discussion 2 | Fisher, G. H., F. J. Rosenberg, S. E. Straus, J. K. Dale, L. A. Middleton, A. Y. Lin, W. Strober, M. J. Lenardo, and J. M. Puck. "Dominant interfering Fas gene mutations impair apoptosis in a human autoimmune lymphoproliferative syndrome." _Cell_ 81, no. 6 (June 16, 1995): 935-46. |
-| 22 | Paper Discussion 3 | Murali-Krishna, K., L. L. Lau, S. Sambhara, F. Lemonnier, J. Altman, and R. Ahmed. "Persistence of memory CD8 T cells in MHC class I-deficient mice." _Science_ 286, no. 5443 (November 12, 1999): 1377-81. |
-| 28 | Paper Discussion 4 | Fontenot, J. D., M. A. Gavin, and A. Y. Rudensky. "Foxp3 programs the development and function of CD4+CD25+ regulatory T cells." _Nat Immunol_ 4, no. 4 (April 2003): 330-6. (Epub March 3, 2003) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Paper Discussion 1
+{{< tdclose >}}
+{{< tdopen >}}
+Forster, R., A. Schubel, D. Breitfeld, E. Kremmer, I. Renner-Muller, E. Wolf, and M. Lipp. "CCR7 coordinates the primary immune response by establishing functional microenvironments in secondary lymphoid organs." _Cell_ 99, no. 1 (October 1, 1999): 23-33.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Paper Discussion 2
+{{< tdclose >}}
+{{< tdopen >}}
+Fisher, G. H., F. J. Rosenberg, S. E. Straus, J. K. Dale, L. A. Middleton, A. Y. Lin, W. Strober, M. J. Lenardo, and J. M. Puck. "Dominant interfering Fas gene mutations impair apoptosis in a human autoimmune lymphoproliferative syndrome." _Cell_ 81, no. 6 (June 16, 1995): 935-46.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Paper Discussion 3
+{{< tdclose >}}
+{{< tdopen >}}
+Murali-Krishna, K., L. L. Lau, S. Sambhara, F. Lemonnier, J. Altman, and R. Ahmed. "Persistence of memory CD8 T cells in MHC class I-deficient mice." _Science_ 286, no. 5443 (November 12, 1999): 1377-81.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Paper Discussion 4
+{{< tdclose >}}
+{{< tdopen >}}
+Fontenot, J. D., M. A. Gavin, and A. Y. Rudensky. "Foxp3 programs the development and function of CD4+CD25+ regulatory T cells." _Nat Immunol_ 4, no. 4 (April 2003): 330-6. (Epub March 3, 2003)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Optional Readings
 -----------------

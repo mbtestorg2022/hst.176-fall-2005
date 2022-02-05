@@ -39,39 +39,461 @@ Exams and Grades
 
 Two short quizzes are planned early in the course to facilitate acquisition of the "language of immunology." There will be a Mid-term as well as a Final examination (short answers and brief essays). Grades will be based primarily on performance in the quizzes and examinations.
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Overview - _Dr. Shiv Pillai_ |  |
-| 2 | Cells of the Immune System - _Dr. Shiv Pillai_ |  |
-| 3 | Lymphocyte Homing - _Dr. Ulrich von Andrian_ |  |
-| 4 | Case Presentations at MGH |  |
-| 5 | Antibodies and Antigens - _Dr. Shiv Pillai_  {{< br >}}  {{< br >}}Analyzing a Clinical Case - _Dr. Bobby Cherayil_ |  |
-| 6 | Antigen Receptors and the Generation of Diversity - _Dr. Shiv Pillai_ | Quiz I |
-| 7 | Case Presentations at MGH |  |
-| 8 | B Lymphocyte Development and Activation - _Dr. Shiv Pillai_ |  |
-| 9 | Tutorial Session I  {{< br >}}  {{< br >}}Antibody Dependent Protection - _Dr. Shiv Pillai_ |  |
-| 10 | Antigen Presentation - _Dr. Hidde Ploegh_ |  |
-| 11 | Tutorial Session II  {{< br >}}  {{< br >}}T Lymphocyte Development - _Dr. Shiv Pillai_ | Quiz II |
-| 12 | Tutorial Session III  {{< br >}}  {{< br >}}Signal Transduction in Lymphocytes I - _Dr. Shiv Pillai_ |  |
-| 13 | Cell Mediated Immunity - _Dr. Andrew Lichtman_ |  |
-| 14 | Tutorial Session IV  {{< br >}}  {{< br >}}Signal Transduction in Lymphocytes II - _Dr. Shiv Pillai_ |  |
-| 15 | Paper Discussion 1 |  |
-|  | Midterm Exam |  |
-| 16 | Dendritic Cells - _Dr. Shannon Turley_  {{< br >}}  {{< br >}}Frontiers: Costimulation - _Dr. Arlene Sharpe_ |  |
-| 17 | Paper Discussion 2 |  |
-| 18 | Memory and Death - _Dr. Shiv Pillai_  {{< br >}}  {{< br >}}Immunology of TB - _Dr. Samuel M. Behar_ |  |
-| 19 | Tutorial Session V  {{< br >}}  {{< br >}}Immune Mediated Injury - _Dr. Richard Mitchell_ |  |
-| 20 | Asthma and Allergy - _Dr. Dale T. Umetsu_  {{< br >}}  {{< br >}}Frontiers: DC and Innate Immunity - _Dr. Nir Harcohen_ |  |
-| 21 | Multiple Sclerosis - _Dr. David Hafler_  {{< br >}}  {{< br >}}Frontiers: Autoimmune TCRs - _Dr. Kai Wucherpfennig_ |  |
-| 22 | Paper Discussion 3 |  |
-| 23 | Leukemias and Lymphomas - _Dr. Jon C. Aster_  {{< br >}}  {{< br >}}CD1 and Lipid Antigens - _Dr. Richard S. Blumberg_ |  |
-| 24 | Tutorial Session VI  {{< br >}}  {{< br >}}Transplantation Immunology - _Dr. Hugh Auchincloss_ |  |
-| 25 | Immunology of HIV/AIDS - _Dr. Bruce Walker_  {{< br >}}  {{< br >}}Frontiers: Genetic Instability and Cancer - _Dr. Frederick W. Alt_ |  |
-| 26 | Regulatory T Cells - _Dr. Diane Mathis_  {{< br >}}  {{< br >}}Bone Marrow Transplant - _Dr. Megan Sykes_ |  |
-| 27 | Tutorial Session VII  {{< br >}}  {{< br >}}Tumor Immunology - _Dr. Andrew Lichtman_ |  |
-| 28 | Paper Discussion 4 |  |
-| 29 | Regulating Humoral Autoimmunity - _Dr. Shiv Pillai_  {{< br >}}  {{< br >}}Inflammatory Bowel Disease - _Dr. Ramnik Xavier_ |  |
-| 30 | Immunodeficiency Disorders - _Dr. Francisco Bonilla_ |  |
-| 31 | RA and Lupus - _Dr. Paul Anderson_ |  |
-| 32 | Genetic Susceptibility to Disease - _Dr. Shiv Pillai_ |  |
-|  | Final Exam |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Overview - _Dr. Shiv Pillai_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Cells of the Immune System - _Dr. Shiv Pillai_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Lymphocyte Homing - _Dr. Ulrich von Andrian_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Case Presentations at MGH
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Antibodies and Antigens - _Dr. Shiv Pillai_  
+  
+Analyzing a Clinical Case - _Dr. Bobby Cherayil_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Antigen Receptors and the Generation of Diversity - _Dr. Shiv Pillai_
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Case Presentations at MGH
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+B Lymphocyte Development and Activation - _Dr. Shiv Pillai_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Tutorial Session I  
+  
+Antibody Dependent Protection - _Dr. Shiv Pillai_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Antigen Presentation - _Dr. Hidde Ploegh_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Tutorial Session II  
+  
+T Lymphocyte Development - _Dr. Shiv Pillai_
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Tutorial Session III  
+  
+Signal Transduction in Lymphocytes I - _Dr. Shiv Pillai_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Cell Mediated Immunity - _Dr. Andrew Lichtman_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Tutorial Session IV  
+  
+Signal Transduction in Lymphocytes II - _Dr. Shiv Pillai_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Paper Discussion 1
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Exam
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Dendritic Cells - _Dr. Shannon Turley_  
+  
+Frontiers: Costimulation - _Dr. Arlene Sharpe_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Paper Discussion 2
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Memory and Death - _Dr. Shiv Pillai_  
+  
+Immunology of TB - _Dr. Samuel M. Behar_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Tutorial Session V  
+  
+Immune Mediated Injury - _Dr. Richard Mitchell_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Asthma and Allergy - _Dr. Dale T. Umetsu_  
+  
+Frontiers: DC and Innate Immunity - _Dr. Nir Harcohen_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Multiple Sclerosis - _Dr. David Hafler_  
+  
+Frontiers: Autoimmune TCRs - _Dr. Kai Wucherpfennig_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Paper Discussion 3
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Leukemias and Lymphomas - _Dr. Jon C. Aster_  
+  
+CD1 and Lipid Antigens - _Dr. Richard S. Blumberg_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Tutorial Session VI  
+  
+Transplantation Immunology - _Dr. Hugh Auchincloss_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Immunology of HIV/AIDS - _Dr. Bruce Walker_  
+  
+Frontiers: Genetic Instability and Cancer - _Dr. Frederick W. Alt_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Regulatory T Cells - _Dr. Diane Mathis_  
+  
+Bone Marrow Transplant - _Dr. Megan Sykes_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Tutorial Session VII  
+  
+Tumor Immunology - _Dr. Andrew Lichtman_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Paper Discussion 4
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Regulating Humoral Autoimmunity - _Dr. Shiv Pillai_  
+  
+Inflammatory Bowel Disease - _Dr. Ramnik Xavier_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Immunodeficiency Disorders - _Dr. Francisco Bonilla_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+RA and Lupus - _Dr. Paul Anderson_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+Genetic Susceptibility to Disease - _Dr. Shiv Pillai_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
