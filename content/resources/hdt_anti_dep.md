@@ -4,6 +4,7 @@ description: 'This resource provides information on the topic: Antibody Dependen
   Protection Mechanisms.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-176-cellular-and-molecular-immunology-fall-2005/55541d9ff013a07b2527a955a2229ce6_hdt_anti_dep.pdf
 file_type: application/pdf
+parent_uid: 70516006-6b3c-70dc-617b-15f2e4eda35c
 resourcetype: Document
 title: hdt_anti_dep.pdf
 uid: 55541d9f-f013-a07b-2527-a955a2229ce6

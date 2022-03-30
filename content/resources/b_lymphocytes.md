@@ -5,6 +5,7 @@ description: This resource provides information on cell selection, allelic exclu
   maturation.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-176-cellular-and-molecular-immunology-fall-2005/92754a2204e6c049e25f041dd5fc2389_b_lymphocytes.pdf
 file_type: application/pdf
+parent_uid: 70516006-6b3c-70dc-617b-15f2e4eda35c
 resourcetype: Document
 title: b_lymphocytes.pdf
 uid: 92754a22-04e6-c049-e25f-041dd5fc2389
