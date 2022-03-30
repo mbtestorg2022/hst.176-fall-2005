@@ -410,7 +410,7 @@ Antibody-dependent Protection Mechanisms
 {{< tdopen >}}
 Lecture Notes ([PDF]({{< baseurl >}}/resources/antibodies)) and ([PDF]({{< baseurl >}}/resources/cellbiology))  
   
-Handouts (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1]({{< baseurl >}}/resources/hdt_ant_bodi_gen)) and ([PDF 2]({{< baseurl >}}/resources/hdt_anti_dep))
+Handouts ([PDF 1]({{< baseurl >}}/resources/hdt_ant_bodi_gen)) and ([PDF 2]({{< baseurl >}}/resources/hdt_anti_dep))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -432,7 +432,7 @@ Handout (for T Lymphocyte Development) ([PDF]({{< baseurl >}}/resources/hdt_lymp
 B Lymphocyte Dev and Activation
 {{< tdclose >}}
 {{< tdopen >}}
-Handout (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hdt_b_lympho))
+Handout ([PDF]({{< baseurl >}}/resources/hdt_b_lympho))
 {{< tdclose >}}
 
 {{< trclose >}}
